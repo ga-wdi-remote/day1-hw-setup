@@ -27,7 +27,7 @@ Write down five things that you plan to change about yourself when taking this c
 2.
 3.
 4.
-5.
+5. 
 
 ### Part 3. Classroom Tools
 
