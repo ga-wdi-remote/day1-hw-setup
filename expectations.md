@@ -1,8 +1,8 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Setting You Up for Success
+# Setting You Up for Success: Class Expectations
 
-Before we take a deep dive into the world of web development, it's crucial in this online bootcamp to understand the student expectations from the get-go to ensure **your success** as a student and developer. Matt Huntington, the faculty lead of GA-WDIR, has taught WDI on the NYC campus and currently teaches online. With over 15 years of professional web development experience under his belt, he's outlined words of wisdom for excited, ambitious programming newcomers like yourselves!
+Before we take a deep dive into the world of web development, it's crucial in this online bootcamp to understand the student expectations from the get-go to ensure **your success** as a student and developer. Matt Huntington, the faculty lead of GA-WDIR, has taught WDI on the NYC campus and currently teaches online. With over 15 years of professional web development experience under his belt, he's outlined (blunt) words of (real-life) wisdom for excited, ambitious programming newcomers like yourselves!
 
 ## Exercise Objectives
 * Reflect on the WDIR expectations outlined for you
@@ -14,10 +14,11 @@ Before we take a deep dive into the world of web development, it's crucial in th
 
 ## Instructions
 
-Read through the outline and answer the questions in the provided spaces at the bottom of the file.
-
+- Read through the outline.
+- Write your answers in [the answer file](answers.md).
 - Write down five things that you learned from reading this.
 - Write down five things that you plan to change about yourself when taking this class.
+- Save changes you've made to `answers.md`. (Atom shortcut: `cmd` + `s`)
 
 
 ## Expectations
@@ -88,21 +89,3 @@ Read through the outline and answer the questions in the provided spaces at the 
   - -> project (very hands off)
 	- This is to ease you into what it will be like in real life
 - Your community of students is the best aspect of GA. They will help you with finding work and help you when you are stuck on a problem at work.
-
-## Your answers
-
-#### Write down five things that you learned from reading this:
-
-1.
-2.
-3.
-4.
-5.
-
-#### Write down five things that you plan to change about yourself when taking this class.
-
-1.
-2.
-3.
-4.
-5.

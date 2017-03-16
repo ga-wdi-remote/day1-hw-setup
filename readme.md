@@ -3,11 +3,12 @@
 # Homework
 Welcome to your first homework! As we launch into bootcamp beast mode, let's make sure we're all on the same page with class expectations and the tools available to you.
 
-Tonight's homework has 2 parts:
+Tonight's homework has 3 parts:
   1. [Student Wiki Treasure Hunt](wiki_treasure_hunt.md)
-  2. [Setting up For Success](expectations.md)
+  2. [Setting up For Success: Class Expectations](expectations.md)
+  3. [Setting up For Success: WDIR Classroom Tools](slack-and-zoom.md)
 
-Follow the instructions for both exercises. Once you are done, submit your work.
+Follow the instructions for all exercises. You will write all of your answers in the [answers markdown file](answers.md). Once you are done, submit your work.
 
 ## Submitting Your Work
 
