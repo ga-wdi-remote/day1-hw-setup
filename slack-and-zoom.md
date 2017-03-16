@@ -1,25 +1,32 @@
 # How to Slack and Zoom
 
-# Slack
+### Menu:
 
-[Slack](https://slack.com/) is an all-in-one messaging app that many teams use today. This will be our main source of communication.
+- [Slack](#slack)
+- [Zoom](#zoom)
+
+#  <a name="slack"></a> Slack
+
+[Slack](https://slack.com/) is a popular all-in-one messaging app that many teams use today. This will be our main source of communication.
 
 With Slack you can:
-  - Send direct messages
+  - Send direct messages (individual, group)
   - Upload files
   - Download for mobile
-  - lots of cool stuff
-
 
 ## Commonly Used Features
 
 ![image](screenshots/slack-screenshot.png)
-  - Write messages. You can edit and delete messages instead of spamming the chat.
-  - Navigate channels. We'll provide a couple of channels for you.
+  1. Write messages. You can edit and delete messages instead of spamming the chat.
+  2. Navigate channels. We'll provide a couple of channels for you.
     - **Main channel:** This is where lessons take place.
     - **Debugging channel:** All of your code issues and errors and questions go here. Offer help, suggestions, and solutions!
     - **Outcomes channel:** your weekly graduation outcomes meetings take place in here.
     - **Partytime channel:** giphys, emojis, fun links, funny stories. All the fun stuff goes here.
+  3. Send direct messages to your peers and instructors.
+  4. Use emojis :bowtie: to react to messages
+  5. Open and close the side menu. Here you will see any important "pinned" messages and links
+
 
 ## Writing Code in Slack
 
@@ -44,3 +51,5 @@ Same as single back ticks to format code, but you wrap the whole block of code i
 ![image](screenshots/snippet.png)
 
 Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field.
+
+# <a name="zoom"></a> Zoom
