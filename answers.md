@@ -16,6 +16,7 @@
 ### Part 2. Class Expectations
 
 Write down five things that you learned from the reading.
+
 1.
 2.
 3.
@@ -23,11 +24,12 @@ Write down five things that you learned from the reading.
 5.
 
 Write down five things that you plan to change about yourself when taking this class.
+
 1.
 2.
 3.
 4.
-5. 
+5.  
 
 ### Part 3. Classroom Tools
 
