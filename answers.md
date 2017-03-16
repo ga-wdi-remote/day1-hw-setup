@@ -31,4 +31,4 @@ Write down five things that you plan to change about yourself when taking this c
 
 ### Part 3. Classroom Tools
 
-(There are no questions to answer for this part. Just follow the instructions.)
+(There are no questions to answer for this part. Just follow the instructions in [the markdown](slack-and-zoom.md).)
