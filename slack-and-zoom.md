@@ -51,7 +51,7 @@ Same as single back ticks to format code, but you wrap the whole block of code i
 
 <img src="screenshots/snippet.png" align="left" width="400" /><br>
 
-Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field and select **Code or Snippet Text**.<br><br>
+Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field and select **Code or Snippet Text**.<br><br><br><br><br><br>
 <hr>
 
 # <a name="zoom"></a> Zoom
