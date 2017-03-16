@@ -4,6 +4,7 @@
 
 - [Slack](#slack)
 - [Zoom](#zoom)
+- [Workspace Setup](#workspace)
 
 #  <a name="slack"></a> Slack
 
@@ -19,10 +20,10 @@ With Slack you can:
 ![image](screenshots/slack-screenshot.png)
   1. Write messages. You can edit and delete messages instead of spamming the chat.
   2. Navigate channels. We'll provide a couple of channels for you.
-    - **Main channel:** This is where lessons take place.
+    - **Main channel:** This is where lessons take place and announcements are made.
     - **Debugging channel:** All of your code issues and errors and questions go here. Offer help, suggestions, and solutions!
-    - **Outcomes channel:** your weekly graduation outcomes meetings take place in here.
-    - **Partytime channel:** giphys, emojis, fun links, funny stories. All the fun stuff goes here.
+    - **Outcomes channel:** Your weekly graduation outcomes meetings take place in here.
+    - **Partytime channel:** Giphys, emojis, fun links, funny stories. All the fun stuff goes here.
   3. Send direct messages to your peers and instructors.
   4. Use emojis :bowtie: to react to messages
   5. Open and close the side menu. Here you will see any important "pinned" messages and links
@@ -48,8 +49,21 @@ Same as single back ticks to format code, but you wrap the whole block of code i
 
 ## Code Snippet (Preferred*)
 
-![image](screenshots/snippet.png)
+<img src="screenshots/snippet.png" align="left" width="300" /><br>
 
-Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field.
+Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field and select **Code or Snippet Text**.
 
 # <a name="zoom"></a> Zoom
+
+
+
+# <a name="zoom"></a> Workspace Setup
+
+![image](screenshots/Workspace_setup.png)
+
+### It's important to STAY ORGANIZED!!
+
+We suggest for your work setup:
+   - Your laptop should just have Slack open. Lesson slides, screenshots, and content will live in here.
+   - Your external monitor should have Zoom open. Set up your files neatly.
+   - Once we get into more complex apps, it will be **crucial** to have an organized workspace and set up! We'll be dealing with a lot of windows.
