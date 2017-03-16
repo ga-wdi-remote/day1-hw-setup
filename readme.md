@@ -16,7 +16,7 @@ Follow the instructions for all exercises. You will write all of your answers in
   a title in the format "First and Last Name -- Week 01 Day 01".
   The issue body should have:
 
-  *   A link to your forked repo (ie. to your `homework` folder)
+  *   A link to your repo
   *   A 'comfort' score on how you feel about your answers, from 1 (very
       uncomfortable) to 5 (very comfortable)
   *   A 'completeness' score, from 1 (didn't do it) to 5 (finished all of it)    
