@@ -1,4 +1,4 @@
-# How to Slack and Zoom
+# Setting up For Success: Class Tools
 
 ### Menu:
 
@@ -49,21 +49,33 @@ Same as single back ticks to format code, but you wrap the whole block of code i
 
 ## Code Snippet (Preferred*)
 
-<img src="screenshots/snippet.png" align="left" width="300" /><br>
+<img src="screenshots/snippet.png" align="left" width="400" /><br>
 
-Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field and select **Code or Snippet Text**.
+Sometimes using back-ticks messes up our code (Thanks Slack!) but you can **upload code files and snippets** by pressing the **`+`** sign in the message input field and select **Code or Snippet Text**.<br><br>
+<hr>
 
 # <a name="zoom"></a> Zoom
 
+[Zoom](zoom.us) is a video chat app.
 
+- mute
+- breakout
+- video settings (external screen)
+
+<hr>
 
 # <a name="zoom"></a> Workspace Setup
 
 ![image](screenshots/Workspace_setup.png)
 
-### It's important to STAY ORGANIZED!!
+### It's imperative to STAY ORGANIZED!!
 
 We suggest for your work setup:
+
    - Your laptop should just have Slack open. Lesson slides, screenshots, and content will live in here.
    - Your external monitor should have Zoom open. Set up your files neatly.
    - Once we get into more complex apps, it will be **crucial** to have an organized workspace and set up! We'll be dealing with a lot of windows.
+
+- You will be on camera all day (with the exception of break times)
+- Find a quiet spot. You will be talking a lot.
+- Be mindful of your background. We can see everything behind you on camera.
